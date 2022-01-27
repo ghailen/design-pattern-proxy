@@ -7,3 +7,11 @@ exemple 2 : on peut utliser le proxy par exemple lorsqu'on va récuperer une ima
 
 
 exemple 1 : implementation 
+
+si le mot de passe incorrete 
+![image](https://user-images.githubusercontent.com/36199753/151385387-8cf2306e-2359-48f4-809e-5669a610b4dc.png)
+
+si le mot de passe est correcte
+![image](https://user-images.githubusercontent.com/36199753/151385507-0f8b1117-85a8-4838-9fad-31ab1833d22c.png)
+
+
